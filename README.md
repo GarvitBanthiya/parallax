@@ -12,3 +12,6 @@ A parallax website is an interactive and visually captivating web platform desig
 
 5. Modern Aesthetics: Combines sleek typography, vibrant visuals, and clean layouts to offer a professional and polished appearance.
 
+![Screenshot 2025-01-01 193126](https://github.com/user-attachments/assets/dda1dbac-9f6e-43ed-9058-2e4c311d02dd)
+![Screenshot 2025-01-01 193135](https://github.com/user-attachments/assets/1d12b127-f516-42d8-9f3b-05054f66f96b)
+![Screenshot 2025-01-01 193143](https://github.com/user-attachments/assets/520c746c-be1d-451d-9662-a038478f4458)
